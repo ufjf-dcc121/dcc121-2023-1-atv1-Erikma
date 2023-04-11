@@ -1,0 +1,49 @@
+htmli{
+    background-color: blanchedalmond;
+    margin-block-end: auto;
+    scroll-margin-top: inherit;
+    margin-top: 2%;
+}
+bo{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 40⅜;
+    border-color: purple;
+    border: groove;
+}
+head{
+    text-align: center;
+}
+l{
+    border: groove;
+    border-color:cornflowerblue;
+    text-decoration-color:blue;
+    -webkit-text-security: none;
+    text-shadow: 0 0 black;
+    cursor: context-menu;
+}
+c{
+    list-style-type: none;
+    border: groove;
+    display: -webkit-box;
+    background-color: cadetblue;
+    
+}
+b{
+    border: solid 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+j{
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid 1px;
+}
+p{
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid 1px;
+}
+u{
+    text-align: center;
+}
